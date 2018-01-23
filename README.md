@@ -1,4 +1,4 @@
-# Java_SampleCode120
+# JavaSampleCode20
 メソッド
 
 #### 処理
